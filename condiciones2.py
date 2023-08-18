@@ -1,0 +1,11 @@
+TEMPERATURA=int (input ("MIDA LA TEMPERATURA DEL BARRIL"))
+if TEMPERATURA>=50°c:
+    print ("CUIDADO GONO ESA MADRE ESTÁ QUE ARDE")
+else:
+    print ("LA TEMPERATURA ESTÁ BIEN")
+
+GRADOSALCOHOL=int (input ("DIGITE LOS GRADOS PAPI"))
+if GRADOSALCOHOL>5° or TEMPERATURA>50°c:
+        print("¡¡¡¡ALERTAAAA!!!!")
+else
+    print("¡¡TODOOO NORMAL!!")
